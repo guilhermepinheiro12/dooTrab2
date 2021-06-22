@@ -1,0 +1,18 @@
+
+Essa aplicação é uma simulação de uma loja de roupas, sendo específicado apenas a venda de camisetas e cuecas.
+
+Na primeira tela, a de 'login', apenas um 'login' e senha é aceito, sendo eles, respectivamente 'adm' e '123', sem contar as aspas e 
+utilizando letras minúsculas.
+
+Na segunda tela, é um menu, onde é possível escolher a opção entre cadastrar um objeto, e de ver os objetos cadastrados, podendo os 
+objetos serem tanto camisetas quanto cuecas.
+
+A terceira tela, é a de cadastro, nos campos você deve escrever o nome (String), a descrição (String), o código (int), quantidade (int), 
+e tamanho (String). A criação do objeto e sua serialização são apenas possíveis se todos os campos tiverem conteúdos, sendo as informações 
+colocadas correspondentes ao tipos (neste caso, String ou int) de cada campo.
+
+A quarta tela, é a tela de visualização dos objetos, sendo possível ver uma lista de todos os objetos cadastrados, quanto poder imprimir no 
+console as informações referentes a cada um desses objetos.
+
+Ao fechar a terceira e/ou a quarta janela, a aplicação não é encerrada, isso apenas acontece na segunda tela (menu), e na primeira (login).
+
